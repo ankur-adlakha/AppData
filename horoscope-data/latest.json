@@ -1,74 +1,103 @@
 [
-    {
-      "rashi": "Aries",
-      "prediction": "Today favors controlled action rather than confrontation. Your initiative works best when guided by strategy. Avoid impulsive spending. Physical exercise is beneficial.",
-      "luckyColor": "Red",
-      "luckyTime": "8:30 AM – 10:00 AM"
-    },
-    {
-      "rashi": "Taurus",
-      "prediction": "Comfort and routine support you today. Financial decisions should remain conservative. Emotional steadiness strengthens bonds. Avoid stubbornness.",
-      "luckyColor": "Cream",
-      "luckyTime": "1:30 PM – 3:00 PM"
-    },
-    {
-      "rashi": "Gemini",
-      "prediction": "Information flows quickly today. Choose words carefully to avoid misunderstandings. Learning activities are favored. Mental rest is important.",
-      "luckyColor": "Light Green",
-      "luckyTime": "11:00 AM – 12:30 PM"
-    },
-    {
-      "rashi": "Cancer",
-      "prediction": "Domestic matters come into focus. Emotional maturity helps resolve minor tensions. Trust your intuition. Avoid dwelling on the past.",
-      "luckyColor": "Pearl White",
-      "luckyTime": "6:00 PM – 7:30 PM"
-    },
-    {
-      "rashi": "Leo",
-      "prediction": "Responsibility increases today. Authority grows when you act fairly. Avoid ego-driven decisions. Appreciation comes through consistency.",
-      "luckyColor": "Orange",
-      "luckyTime": "12:00 PM – 1:30 PM"
-    },
-    {
-      "rashi": "Virgo",
-      "prediction": "A productive day for planning and refinement. Attention to detail brings success. Health improves through discipline. Avoid self-criticism.",
-      "luckyColor": "Forest Green",
-      "luckyTime": "9:00 AM – 10:30 AM"
-    },
-    {
-      "rashi": "Libra",
-      "prediction": "Harmony improves when you set clear boundaries. Cooperation brings results. Artistic expression helps emotional balance. Avoid indecision.",
-      "luckyColor": "Pastel Pink",
-      "luckyTime": "4:30 PM – 6:00 PM"
-    },
-    {
-      "rashi": "Scorpio",
-      "prediction": "Inner strength guides you today. Avoid controlling outcomes too tightly. Trust gradual progress. Meditation or silence helps.",
-      "luckyColor": "Deep Red",
-      "luckyTime": "7:30 AM – 9:00 AM"
-    },
-    {
-      "rashi": "Sagittarius",
-      "prediction": "Perspective widens today. Honest conversations bring clarity. Avoid over-commitment. A learning opportunity may arise.",
-      "luckyColor": "Mustard Yellow",
-      "luckyTime": "2:00 PM – 3:30 PM"
-    },
-    {
-      "rashi": "Capricorn",
-      "prediction": "Career focus remains strong. Steady effort yields respect. Avoid emotional isolation. Practical planning is favored.",
-      "luckyColor": "Charcoal",
-      "luckyTime": "10:00 AM – 11:30 AM"
-    },
-    {
-      "rashi": "Aquarius",
-      "prediction": "Social awareness increases. Innovative thinking helps solve issues. Detach from unrealistic expectations. Flexibility brings ease.",
-      "luckyColor": "Sky Blue",
-      "luckyTime": "3:30 PM – 5:00 PM"
-    },
-    {
-      "rashi": "Pisces",
-      "prediction": "Sensitivity is heightened today. Kindness brings emotional fulfillment. Creative or spiritual practices are beneficial. Avoid over-absorption in others’ emotions.",
-      "luckyColor": "Aqua",
-      "luckyTime": "5:00 PM – 6:30 PM"
-    }
-  ]
+  {
+    "date": "2026-01-17",
+    "horoscopes": [
+      {
+        "rashi": "Aries",
+        "personal": "Today favors controlled action rather than confrontation. Avoid unnecessary arguments and focus on calm communication.",
+        "profession": "Your initiative works best when guided by strategy. Avoid impulsive financial decisions or spending.",
+        "health": "Physical exercise is beneficial today. Maintain discipline and avoid overexertion.",
+        "luckyColor": "Red",
+        "luckyTime": "8:30 AM – 10:00 AM"
+      },
+      {
+        "rashi": "Taurus",
+        "personal": "Comfort and routine support you today. Emotional steadiness strengthens your relationships. Avoid stubbornness.",
+        "profession": "Financial decisions should remain conservative. Focus on stability rather than experimentation.",
+        "health": "Follow a balanced routine. Avoid overeating or laziness and maintain steady energy levels.",
+        "luckyColor": "Cream",
+        "luckyTime": "1:30 PM – 3:00 PM"
+      },
+      {
+        "rashi": "Gemini",
+        "personal": "Choose words carefully today to avoid misunderstandings. Good communication improves bonding.",
+        "profession": "Learning activities are favored. Information flows quickly, so stay organized and avoid distractions.",
+        "health": "Mental rest is important. Avoid overthinking and give yourself proper breaks.",
+        "luckyColor": "Light Green",
+        "luckyTime": "11:00 AM – 12:30 PM"
+      },
+      {
+        "rashi": "Cancer",
+        "personal": "Domestic matters come into focus. Emotional maturity helps resolve minor tensions. Avoid dwelling on the past.",
+        "profession": "Trust your intuition in decision-making. Avoid workplace emotional sensitivity.",
+        "health": "Take care of emotional wellbeing. Relaxation and proper sleep will improve your mood.",
+        "luckyColor": "Pearl White",
+        "luckyTime": "6:00 PM – 7:30 PM"
+      },
+      {
+        "rashi": "Leo",
+        "personal": "Authority grows when you act fairly. Avoid ego-driven decisions. Appreciation comes through consistency.",
+        "profession": "Responsibility increases today. Stay disciplined and you may gain recognition from seniors.",
+        "health": "Avoid stress and overworking. Take short breaks to recharge your energy.",
+        "luckyColor": "Orange",
+        "luckyTime": "12:00 PM – 1:30 PM"
+      },
+      {
+        "rashi": "Virgo",
+        "personal": "Avoid self-criticism today. Stay calm and focus on improving yourself without stress.",
+        "profession": "A productive day for planning and refinement. Attention to detail brings success.",
+        "health": "Health improves through discipline. Maintain routine meals and proper hydration.",
+        "luckyColor": "Forest Green",
+        "luckyTime": "9:00 AM – 10:30 AM"
+      },
+      {
+        "rashi": "Libra",
+        "personal": "Harmony improves when you set clear boundaries. Avoid indecision and communicate honestly.",
+        "profession": "Cooperation brings results. Teamwork will help you achieve better outcomes today.",
+        "health": "Artistic expression helps emotional balance. Avoid mental fatigue and stress.",
+        "luckyColor": "Pastel Pink",
+        "luckyTime": "4:30 PM – 6:00 PM"
+      },
+      {
+        "rashi": "Scorpio",
+        "personal": "Inner strength guides you today. Avoid controlling outcomes too tightly and trust the process.",
+        "profession": "Trust gradual progress. Your patience will lead to better long-term results.",
+        "health": "Meditation or silence helps. Avoid stress and take time for mental recovery.",
+        "luckyColor": "Deep Red",
+        "luckyTime": "7:30 AM – 9:00 AM"
+      },
+      {
+        "rashi": "Sagittarius",
+        "personal": "Perspective widens today. Honest conversations bring clarity. Avoid over-commitment.",
+        "profession": "A learning opportunity may arise. Focus on skill-building and avoid multitasking.",
+        "health": "Take care of your energy levels. Avoid exhaustion caused by unnecessary activity.",
+        "luckyColor": "Mustard Yellow",
+        "luckyTime": "2:00 PM – 3:30 PM"
+      },
+      {
+        "rashi": "Capricorn",
+        "personal": "Avoid emotional isolation. Spend time with close ones or share your thoughts openly.",
+        "profession": "Career focus remains strong. Steady effort yields respect. Practical planning is favored.",
+        "health": "Avoid overworking. Maintain proper posture and include light stretching in your routine.",
+        "luckyColor": "Charcoal",
+        "luckyTime": "10:00 AM – 11:30 AM"
+      },
+      {
+        "rashi": "Aquarius",
+        "personal": "Social awareness increases. Detach from unrealistic expectations. Flexibility brings ease.",
+        "profession": "Innovative thinking helps solve issues. Collaboration can open new opportunities.",
+        "health": "Avoid mental overload. Take breaks and reduce screen fatigue where possible.",
+        "luckyColor": "Sky Blue",
+        "luckyTime": "3:30 PM – 5:00 PM"
+      },
+      {
+        "rashi": "Pisces",
+        "personal": "Sensitivity is heightened today. Kindness brings emotional fulfillment. Avoid absorbing others’ emotions.",
+        "profession": "Creative thinking is beneficial. Focus on artistic or spiritual work for better productivity.",
+        "health": "Spiritual practices are helpful. Avoid emotional stress and focus on calm breathing.",
+        "luckyColor": "Aqua",
+        "luckyTime": "5:00 PM – 6:30 PM"
+      }
+    ]
+  }
+]
